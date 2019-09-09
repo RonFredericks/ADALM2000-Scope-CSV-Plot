@@ -2,7 +2,7 @@
 Plot oscilloscope trace results generated from Analog Devices ADALM2000 Advanced Learning Module CSV export files
 
 Setup:
-1) Insure the following libraries are available: matplotlib, numpy, pandas, sys, os, time, re, glob
+1) Insure the following libraries are available: matplotlib, numpy, pandas, sys, os, time, re, glob, and
                                                 scipy (when using M2KCustomPlotFFT or M2KCustomePlotButter)
 2) To generate CSV files you will need ADALM2000 hardware and Scopy multi-functional software toolset for signal analysis. 
 
