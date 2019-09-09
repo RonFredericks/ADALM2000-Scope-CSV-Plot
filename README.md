@@ -10,7 +10,9 @@ Usage:
 1) Save a csv export file from Scopy Oscilliscope tool, the open-source program used with the ADALM2000 hardware.
 2) Review custom scripts available if desired (FFT or Buttworth Filters), default is to ignore these.
 3) Generate a CSV file from Scopy software tool, or use the ones supplied with this distribution under TestData folder.
-4) Launch main script M2KScopePlot.py to run program.
+4) Launch main script M2KScopePlot.py to run program: 
+4-a) From terminal (such as Anaconda Prompt or IDLE): "python M2KScopePlot.py"
+4-b) From IDE (such as PyCharm or Spyder): execute M2KScopePlot.py
 
 Platforms Tested:
 1) Python 3.6 on Microsoft Windows 10
