@@ -3,6 +3,9 @@
 File: M2KScopePlotUI.py
 Text-based User Interface Module for M2KScopePlot
 v 1.01, August 13, 2019
+	first version
+v 1.0.2, September 25, 2019
+	m2kintro() and version_test() updated for Scopy version 1.1.0
 
 Author: Ron Fredericks, Ron@BiophysicsLab.com
 License: MIT
