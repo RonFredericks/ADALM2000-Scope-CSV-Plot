@@ -19,6 +19,8 @@ CustomScripts:
 
 Author: Ron Fredericks, Ron@BiophysicsLab.com
 Version 1: Initial code created July 25, 2019
+            Update module M2KScopePlotUI function verify_test() to support Scopy version 1.1.0, September 25, 2019
+
 License: MIT
 Copyright 2019 Ron Fredericks, BiophysicsLab.com
 See included license file (license.txt) or read it online: https://opensource.org/licenses/MIT
